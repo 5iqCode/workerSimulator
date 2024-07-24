@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 261e0914d3518244fbf0afcbccd0008f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _strelkaPrefab: {fileID: 5450430340906716810, guid: 41cf7d1f67ac7fd4da9f97f1ec69c82d, type: 3}
+  - _BossTalk: {fileID: 3226221851453274726, guid: d7ef474fa477bc044bd46ba3487ecdb6, type: 3}
+  - _controlsCanvas: {fileID: 8011946943828964437, guid: 386ca982c78539246acaa0d11f294d16, type: 3}
+  - TriggerTeach: {fileID: 8052006212489865916, guid: b05bd178471865e46839b3931f592f34, type: 3}
+  - _subTeachStatsCanvas: {fileID: 3066365167902686929, guid: ef0163a65531a7348bd411fcb13204dc, type: 3}
+  - _challangeObjPrefab: {fileID: 1252277882196860519, guid: 4616bb22d7a00b5428476f26826dcb7b, type: 3}
+  - _triggerBottleImage: {instanceID: 0}
+  - _GoHomeTrigger: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

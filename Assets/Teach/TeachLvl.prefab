@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7584962514327039420
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 748103801989358867}
+  - component: {fileID: 5484218101166358396}
+  m_Layer: 0
+  m_Name: TeachLvl
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &748103801989358867
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7584962514327039420}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5484218101166358396
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7584962514327039420}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 261e0914d3518244fbf0afcbccd0008f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _strelkaPrefab: {fileID: 5482044446408602351, guid: 41cf7d1f67ac7fd4da9f97f1ec69c82d, type: 3}
+  _strelkaPrefabInventory: {fileID: 7122327459388669516, guid: 03efef475b63d2c40bed8d6d1120b34e, type: 3}
+  _strelkaInventory: {fileID: 0}
+  _strelkaScript: {fileID: 0}
+  _BossTalk: {fileID: 3226221851453274726, guid: d7ef474fa477bc044bd46ba3487ecdb6, type: 3}
+  _controlsCanvas: {fileID: 8011946943828964437, guid: 386ca982c78539246acaa0d11f294d16, type: 3}
+  TriggerTeach: {fileID: 8052006212489865916, guid: b05bd178471865e46839b3931f592f34, type: 3}
+  _subTeachStatsCanvas: {fileID: 3066365167902686929, guid: ef0163a65531a7348bd411fcb13204dc, type: 3}
+  _challangeObjPrefab: {fileID: 1252277882196860519, guid: 4616bb22d7a00b5428476f26826dcb7b, type: 3}
+  _stageTeach: 0
+  _triggerBottleImage: {fileID: 2198863233033023306, guid: 894a9496ef367b84a95712a70d0a1216, type: 3}
+  _GoHomeTrigger: {fileID: 6959692263798477187, guid: 1cd42633b7d8c1b4e96400d845a76f0f, type: 3}
